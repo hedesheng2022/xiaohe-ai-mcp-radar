@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Xiaohe AI MCP Radar dataset",
+  "type": "object",
+  "required": [
+    "metadata",
+    "entries"
+  ],
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "required": [
+        "schema_version",
+        "captured_at",
+        "total_count",
+        "directory_url",
+        "disclaimer"
+      ]
+    },
+    "entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "rank",
+          "slug",
+          "name",
+          "source_url",
+          "directory_url",
+          "heat_score",
+          "verification_level"
+        ]
+      }
+    }
+  }
+}
