@@ -1,6 +1,6 @@
 # 小贺 AI MCP Radar
 
-持续更新的 MCP 中文目录与热度快照。当前收录 **938** 个条目，其中 22 个为人工整理的重点条目，916 个来自 GitHub Search 和 Official MCP Registry 的自动采集与筛选。
+持续更新的 MCP 中文目录与热度快照。当前收录 **1240** 个条目，其中 22 个为人工整理的重点条目，1218 个来自 GitHub Search 和 Official MCP Registry 的自动采集与筛选。
 
 - [浏览完整中文 MCP 目录](https://ai.xiao-he.top/mcp.html)
 - [下载 JSON](data/mcp-directory.json)
@@ -8,7 +8,7 @@
 - [查看本次采集报告](data/latest-run.json)
 - [了解热度与准入规则](docs/scoring-method.md)
 
-数据快照：`2026-11-16T03:54:27.667Z`。本仓库每天在网站成功发布后同步；如果网站发布失败，GitHub 数据不会抢先更新。
+数据快照：`2026-11-19T19:31:17.940Z`。本仓库每天在网站成功发布后同步；如果网站发布失败，GitHub 数据不会抢先更新。
 
 > 自动采集、热度排名和元数据完整度检查不等于安装实测、安全审计或官方推荐。安装前请回到上游仓库核对 README、权限、许可证和最新版本，并从只读测试开始。
 
@@ -16,26 +16,26 @@
 
 | 排名 | MCP | 分类 | Stars | 热度 | 详情 |
 | ---: | --- | --- | ---: | ---: | --- |
-| 1 | [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 项目资料 | 48,630 | 45.8 | [中文资料](https://ai.xiao-he.top/mcp/codebase-memory-mcp.html) |
-| 2 | [open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills) | 项目资料 | 9,704 | 45.8 | [中文资料](https://ai.xiao-he.top/mcp/open-seo-mcp-skills.html) |
-| 3 | [Context7](https://github.com/upstash/context7) | 技术文档 | 64,792 | 45.7 | [中文资料](https://ai.xiao-he.top/mcp/context7.html) |
-| 4 | [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 浏览器与测试 | 56,043 | 45.7 | [中文资料](https://ai.xiao-he.top/mcp/chrome-devtools-mcp.html) |
-| 5 | [GitHub MCP Server](https://github.com/github/github-mcp-server) | 代码与协作 | 34,456 | 45.7 | [中文资料](https://ai.xiao-he.top/mcp/github-mcp.html) |
-| 6 | [Playwright MCP](https://github.com/microsoft/playwright-mcp) | 浏览器与测试 | 39,634 | 45.6 | [中文资料](https://ai.xiao-he.top/mcp/playwright-mcp.html) |
-| 7 | [mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) | 项目资料 | 34,405 | 45.6 | [中文资料](https://ai.xiao-he.top/mcp/mcp-for-blender.html) |
-| 8 | [n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 项目资料 | 23,252 | 45.4 | [中文资料](https://ai.xiao-he.top/mcp/n8n-mcp.html) |
-| 9 | [MCP Toolbox for Databases](https://github.com/googleapis/mcp-toolbox) | 数据库 | 16,872 | 45.3 | [中文资料](https://ai.xiao-he.top/mcp/mcp-toolbox-databases.html) |
-| 10 | [apify-mcp-server](https://github.com/apify/apify-mcp-server) | 项目资料 | 16,230 | 45.2 | [中文资料](https://ai.xiao-he.top/mcp/apify-mcp-server.html) |
-| 11 | [unity-mcp](https://github.com/CoplayDev/unity-mcp) | 项目资料 | 15,966 | 45.1 | [中文资料](https://ai.xiao-he.top/mcp/coplaydev-unity-mcp.html) |
-| 12 | [xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 项目资料 | 17,121 | 44.9 | [中文资料](https://ai.xiao-he.top/mcp/xiaohongshu-mcp.html) |
-| 13 | [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) | 项目资料 | 13,474 | 44.4 | [中文资料](https://ai.xiao-he.top/mcp/ida-pro-mcp.html) |
-| 14 | [Windows-MCP](https://github.com/CursorTouch/Windows-MCP) | 项目资料 | 11,667 | 44.2 | [中文资料](https://ai.xiao-he.top/mcp/windows-mcp.html) |
-| 15 | [tyk](https://github.com/TykTechnologies/tyk) | 项目资料 | 10,885 | 43.9 | [中文资料](https://ai.xiao-he.top/mcp/tyk.html) |
-| 16 | [AWS Documentation MCP Server](https://github.com/awslabs/mcp) | 云平台与部署 | 9,919 | 43.7 | [中文资料](https://ai.xiao-he.top/mcp/aws-documentation-mcp.html) |
-| 17 | [mobile-mcp](https://github.com/mobile-next/mobile-mcp) | 项目资料 | 10,567 | 43.5 | [中文资料](https://ai.xiao-he.top/mcp/mobile-mcp.html) |
-| 18 | [Firecrawl MCP Server](https://github.com/firecrawl/firecrawl-mcp-server) | 搜索与研究 | 7,818 | 43 | [中文资料](https://ai.xiao-he.top/mcp/firecrawl-mcp.html) |
-| 19 | [ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | 项目资料 | 7,801 | 43 | [中文资料](https://ai.xiao-he.top/mcp/ha-mcp.html) |
-| 20 | [x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server) | 项目资料 | 2,827 | 42.8 | [中文资料](https://ai.xiao-he.top/mcp/x64dbg-mcp-server.html) |
+| 1 | [n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 项目资料 | 23,275 | 45.7 | [中文资料](https://ai.xiao-he.top/mcp/n8n-mcp.html) |
+| 2 | [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 项目资料 | 48,630 | 45.3 | [中文资料](https://ai.xiao-he.top/mcp/codebase-memory-mcp.html) |
+| 3 | [open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills) | 项目资料 | 9,704 | 45.2 | [中文资料](https://ai.xiao-he.top/mcp/open-seo-mcp-skills.html) |
+| 4 | [Context7](https://github.com/upstash/context7) | 技术文档 | 64,792 | 45.1 | [中文资料](https://ai.xiao-he.top/mcp/context7.html) |
+| 5 | [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 浏览器与测试 | 56,043 | 45.1 | [中文资料](https://ai.xiao-he.top/mcp/chrome-devtools-mcp.html) |
+| 6 | [Playwright MCP](https://github.com/microsoft/playwright-mcp) | 浏览器与测试 | 39,634 | 45.1 | [中文资料](https://ai.xiao-he.top/mcp/playwright-mcp.html) |
+| 7 | [GitHub MCP Server](https://github.com/github/github-mcp-server) | 代码与协作 | 34,456 | 45.1 | [中文资料](https://ai.xiao-he.top/mcp/github-mcp.html) |
+| 8 | [mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) | 项目资料 | 34,405 | 45.1 | [中文资料](https://ai.xiao-he.top/mcp/mcp-for-blender.html) |
+| 9 | [MCP Toolbox for Databases](https://github.com/googleapis/mcp-toolbox) | 数据库 | 16,872 | 44.8 | [中文资料](https://ai.xiao-he.top/mcp/mcp-toolbox-databases.html) |
+| 10 | [apify-mcp-server](https://github.com/apify/apify-mcp-server) | 项目资料 | 16,230 | 44.6 | [中文资料](https://ai.xiao-he.top/mcp/apify-mcp-server.html) |
+| 11 | [unity-mcp](https://github.com/CoplayDev/unity-mcp) | 项目资料 | 15,966 | 44.6 | [中文资料](https://ai.xiao-he.top/mcp/coplaydev-unity-mcp.html) |
+| 12 | [xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 项目资料 | 17,121 | 44.3 | [中文资料](https://ai.xiao-he.top/mcp/xiaohongshu-mcp.html) |
+| 13 | [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) | 项目资料 | 13,474 | 43.9 | [中文资料](https://ai.xiao-he.top/mcp/ida-pro-mcp.html) |
+| 14 | [Windows-MCP](https://github.com/CursorTouch/Windows-MCP) | 项目资料 | 11,667 | 43.6 | [中文资料](https://ai.xiao-he.top/mcp/windows-mcp.html) |
+| 15 | [tyk](https://github.com/TykTechnologies/tyk) | 项目资料 | 10,885 | 43.4 | [中文资料](https://ai.xiao-he.top/mcp/tyk.html) |
+| 16 | [AWS Documentation MCP Server](https://github.com/awslabs/mcp) | 云平台与部署 | 9,919 | 43.1 | [中文资料](https://ai.xiao-he.top/mcp/aws-documentation-mcp.html) |
+| 17 | [mobile-mcp](https://github.com/mobile-next/mobile-mcp) | 项目资料 | 10,567 | 43 | [中文资料](https://ai.xiao-he.top/mcp/mobile-mcp.html) |
+| 18 | [Firecrawl MCP Server](https://github.com/firecrawl/firecrawl-mcp-server) | 搜索与研究 | 7,818 | 42.5 | [中文资料](https://ai.xiao-he.top/mcp/firecrawl-mcp.html) |
+| 19 | [ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | 项目资料 | 7,801 | 42.5 | [中文资料](https://ai.xiao-he.top/mcp/ha-mcp.html) |
+| 20 | [Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) | 项目资料 | 16,206 | 42.1 | [中文资料](https://ai.xiao-he.top/mcp/figma-context-mcp.html) |
 
 ## 数据怎么用
 
