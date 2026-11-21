@@ -2,6 +2,17 @@
 
 <!-- xiaohe-radar-changelog -->
 
+<!-- run:2026-11-20T19:30:06.982Z -->
+## 2026-11-20T19:30:06.982Z
+
+- 目录总数：1398
+- 本次新增：158
+- 本次移除：0
+- GitHub 候选：572
+- Official Registry 候选：343
+- 采集警告：GITHUB_TOKEN is not configured; this run was capped at 6 GitHub search requests.
+
+
 <!-- run:2026-11-19T19:31:17.940Z -->
 ## 2026-11-19T19:31:17.940Z
 
