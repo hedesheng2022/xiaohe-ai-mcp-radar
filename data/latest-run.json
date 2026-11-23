@@ -1,67 +1,103 @@
 {
-  "captured_at": "2026-11-23T06:19:19.052Z",
+  "captured_at": "2026-11-23T19:30:06.173Z",
   "catalog": {
-    "previous": 1877,
-    "current": 1882,
+    "previous": 1882,
+    "current": 1893,
     "target": 3000,
     "maximum": 6000
   },
   "admission": {
-    "admittedThisRun": 5,
-    "admittedEarlierToday": 72,
+    "admittedThisRun": 11,
+    "admittedEarlierToday": 77,
     "dailyAdmissionLimit": 450,
     "removedThisRun": 0,
-    "eligibleCandidates": 5,
+    "eligibleCandidates": 11,
     "mode": "initial-ramp"
   },
   "collection": {
     "githubRequests": 18,
     "githubAuthenticated": true,
-    "githubPageStart": 7,
-    "githubNextPage": 10,
+    "githubPageStart": 10,
+    "githubNextPage": 3,
     "githubPagesPerRun": 3,
-    "githubCandidates": 1682,
+    "githubCandidates": 1588,
     "registryRequests": 12,
     "registryCandidates": 331,
-    "mergedCandidates": 2012
+    "mergedCandidates": 1916
   },
   "trend_counts": {
-    "surging": 21,
+    "surging": 22,
     "rising": 119,
-    "active": 569,
-    "stable": 1126,
-    "popular": 44
+    "active": 542,
+    "stable": 1165,
+    "popular": 42
   },
   "admitted": [
     {
-      "repository": "apolloio/apollo-mcp-plugin",
-      "heat_score": 27.4,
-      "metadata_quality_score": 63,
-      "stars": 42
+      "repository": "galon-ai/galon-mcp",
+      "heat_score": 30,
+      "metadata_quality_score": 75,
+      "stars": 0
     },
     {
-      "repository": "giantswarm/mcp-debug",
-      "heat_score": 27.1,
-      "metadata_quality_score": 70,
-      "stars": 38
+      "repository": "la-viral-studio/flashloop-mcp-server",
+      "heat_score": 30,
+      "metadata_quality_score": 75,
+      "stars": 0
     },
     {
-      "repository": "ywleeo/browser-mcp",
-      "heat_score": 27,
-      "metadata_quality_score": 70,
+      "repository": "weather-mcp/weather-mcp",
+      "heat_score": 28.4,
+      "metadata_quality_score": 83,
+      "stars": 58
+    },
+    {
+      "repository": "usestring/string-ai-mcp",
+      "heat_score": 25.8,
+      "metadata_quality_score": 78,
       "stars": 10
     },
     {
-      "repository": "logeshr15/screener-mcp",
-      "heat_score": 26.2,
-      "metadata_quality_score": 83,
-      "stars": 28
-    },
-    {
-      "repository": "derekslinz/meta-data-mcp",
-      "heat_score": 21.4,
+      "repository": "ni-c/freshrss-mcp",
+      "heat_score": 25.3,
       "metadata_quality_score": 83,
       "stars": 5
+    },
+    {
+      "repository": "gowthaman90/mcp-bastion",
+      "heat_score": 24.5,
+      "metadata_quality_score": 78,
+      "stars": 7
+    },
+    {
+      "repository": "halfaipg/domain-finder-mcp",
+      "heat_score": 24,
+      "metadata_quality_score": 70,
+      "stars": 13
+    },
+    {
+      "repository": "hellothisisflo/omnifocus-operator",
+      "heat_score": 23.5,
+      "metadata_quality_score": 70,
+      "stars": 11
+    },
+    {
+      "repository": "areso/safe-ssh-mcp",
+      "heat_score": 22.7,
+      "metadata_quality_score": 78,
+      "stars": 8
+    },
+    {
+      "repository": "geiserx/spinnaker-mcp",
+      "heat_score": 21.9,
+      "metadata_quality_score": 83,
+      "stars": 6
+    },
+    {
+      "repository": "augmented-nature/alphafold-mcp-server",
+      "heat_score": 11.1,
+      "metadata_quality_score": 70,
+      "stars": 38
     }
   ],
   "removed": [],
