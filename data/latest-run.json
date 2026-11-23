@@ -1,381 +1,210 @@
 {
-  "captured_at": "2026-11-22T03:33:10.702Z",
+  "captured_at": "2026-11-22T19:30:06.139Z",
   "catalog": {
-    "previous": 1727,
-    "current": 1784,
+    "previous": 1784,
+    "current": 1812,
     "target": 3000,
     "maximum": 6000
   },
   "admission": {
-    "admittedThisRun": 57,
-    "admittedEarlierToday": 0,
+    "admittedThisRun": 28,
+    "admittedEarlierToday": 57,
     "dailyAdmissionLimit": 450,
     "removedThisRun": 0,
-    "eligibleCandidates": 57,
+    "eligibleCandidates": 28,
     "mode": "initial-ramp"
   },
   "collection": {
     "githubRequests": 18,
     "githubAuthenticated": true,
-    "githubPageStart": 2,
-    "githubNextPage": 5,
+    "githubPageStart": 5,
+    "githubNextPage": 8,
     "githubPagesPerRun": 3,
-    "githubCandidates": 1599,
-    "registryRequests": 12,
-    "registryCandidates": 343,
-    "mergedCandidates": 1940
+    "githubCandidates": 1694,
+    "registryRequests": 0,
+    "registryCandidates": 0,
+    "mergedCandidates": 1694
   },
   "trend_counts": {
-    "surging": 22,
-    "rising": 113,
-    "active": 454,
+    "surging": 25,
+    "rising": 116,
+    "active": 494,
     "popular": 49,
-    "stable": 1141
+    "stable": 1123
   },
   "admitted": [
     {
-      "repository": "mozilla/firefox-mcp",
-      "heat_score": 35.2,
-      "metadata_quality_score": 70,
-      "stars": 598
-    },
-    {
-      "repository": "cyberchitta/llm-context.py",
-      "heat_score": 32.5,
+      "repository": "njohansen/handle-mcp",
+      "heat_score": 38.5,
       "metadata_quality_score": 83,
-      "stars": 308
-    },
-    {
-      "repository": "quarkiverse/quarkus-mcp-server",
-      "heat_score": 31.8,
-      "metadata_quality_score": 75,
-      "stars": 204
-    },
-    {
-      "repository": "render-oss/render-mcp-server",
-      "heat_score": 31.7,
-      "metadata_quality_score": 60,
-      "stars": 203
-    },
-    {
-      "repository": "dynamics365ninja/d365fo-mcp-server",
-      "heat_score": 31.5,
-      "metadata_quality_score": 78,
-      "stars": 174
-    },
-    {
-      "repository": "hostinger/api-mcp-server",
-      "heat_score": 31.4,
-      "metadata_quality_score": 68,
-      "stars": 173
-    },
-    {
-      "repository": "tsmztech/mcp-server-salesforce",
-      "heat_score": 31.3,
-      "metadata_quality_score": 63,
-      "stars": 165
-    },
-    {
-      "repository": "ghchen99/mcp-musescore",
-      "heat_score": 31.2,
-      "metadata_quality_score": 78,
-      "stars": 151
-    },
-    {
-      "repository": "tolkonepiu/best-of-mcp-servers",
-      "heat_score": 31.1,
-      "metadata_quality_score": 71,
-      "stars": 171
-    },
-    {
-      "repository": "datacommonsorg/agent-toolkit",
-      "heat_score": 31.1,
-      "metadata_quality_score": 70,
-      "stars": 149
-    },
-    {
-      "repository": "aliyun/alibabacloud-devops-mcp-server",
-      "heat_score": 30.7,
-      "metadata_quality_score": 83,
-      "stars": 187
-    },
-    {
-      "repository": "jinzcdev/leetcode-mcp-server",
-      "heat_score": 30,
-      "metadata_quality_score": 83,
-      "stars": 158
-    },
-    {
-      "repository": "quarkiverse/quarkus-mcp-server-examples",
-      "heat_score": 29.9,
-      "metadata_quality_score": 78,
-      "stars": 197
-    },
-    {
-      "repository": "lhmisme420/mcp-authscan",
-      "heat_score": 28.7,
-      "metadata_quality_score": 83,
-      "stars": 7
-    },
-    {
-      "repository": "dicklesworthstone/ultimate_mcp_server",
-      "heat_score": 28.6,
-      "metadata_quality_score": 70,
-      "stars": 164
-    },
-    {
-      "repository": "tomtom-international/tomtom-maps-mcp",
-      "heat_score": 28.5,
-      "metadata_quality_score": 83,
-      "stars": 61
-    },
-    {
-      "repository": "nightomaru/perchance-editor-mcp",
-      "heat_score": 28.3,
-      "metadata_quality_score": 78,
-      "stars": 6
-    },
-    {
-      "repository": "supermonster003/autojs6-plugin-mcp-server",
-      "heat_score": 27.7,
-      "metadata_quality_score": 70,
-      "stars": 8
-    },
-    {
-      "repository": "seeed-studio/kicad-mcp-server",
-      "heat_score": 27.6,
-      "metadata_quality_score": 62,
-      "stars": 193
-    },
-    {
-      "repository": "eliasbiondo/reddit-mcp-server",
-      "heat_score": 27.6,
-      "metadata_quality_score": 70,
-      "stars": 167
-    },
-    {
-      "repository": "integromat/make-mcp-server",
-      "heat_score": 27,
-      "metadata_quality_score": 55,
-      "stars": 174
-    },
-    {
-      "repository": "cubrid-lab/cubrid-mcp-server",
-      "heat_score": 27,
-      "metadata_quality_score": 83,
-      "stars": 36
-    },
-    {
-      "repository": "amara-khaled/wrave",
-      "heat_score": 26.7,
-      "metadata_quality_score": 75,
-      "stars": 6
-    },
-    {
-      "repository": "7tg/django-admin-mcp",
-      "heat_score": 26.6,
-      "metadata_quality_score": 83,
-      "stars": 33
-    },
-    {
-      "repository": "vladimir-tutin/plex-mcp-server",
-      "heat_score": 25.8,
-      "metadata_quality_score": 75,
       "stars": 162
     },
     {
-      "repository": "pseudogiant-xr/pseudolife-mcp",
-      "heat_score": 25.3,
+      "repository": "sweetrb/apple-notes-mcp",
+      "heat_score": 31.9,
       "metadata_quality_score": 78,
-      "stars": 8
+      "stars": 198
     },
     {
-      "repository": "phil65/llmling",
-      "heat_score": 25.1,
+      "repository": "ab498/computer-control-mcp",
+      "heat_score": 31.7,
       "metadata_quality_score": 78,
-      "stars": 19
+      "stars": 177
     },
     {
-      "repository": "akzar1el/mcp-trendpulse",
-      "heat_score": 24.6,
+      "repository": "spytrend/spytrend-mcp",
+      "heat_score": 31.7,
       "metadata_quality_score": 83,
-      "stars": 7
+      "stars": 131
     },
     {
-      "repository": "alejandro-technology/opencode-mcp",
-      "heat_score": 24.5,
+      "repository": "socketdev/socket-mcp",
+      "heat_score": 30.8,
       "metadata_quality_score": 75,
-      "stars": 6
+      "stars": 142
     },
     {
-      "repository": "datalayer/mcp-compose",
-      "heat_score": 23.7,
-      "metadata_quality_score": 83,
-      "stars": 12
+      "repository": "lbnl-eta/energyplus-mcp",
+      "heat_score": 30.5,
+      "metadata_quality_score": 62,
+      "stars": 130
     },
     {
-      "repository": "docxology/codomyrmex",
-      "heat_score": 23.4,
+      "repository": "rohanmuppa/brightspace-mcp-server",
+      "heat_score": 28.8,
       "metadata_quality_score": 83,
+      "stars": 68
+    },
+    {
+      "repository": "nasa/earthdata-mcp",
+      "heat_score": 27.4,
+      "metadata_quality_score": 62,
+      "stars": 46
+    },
+    {
+      "repository": "scormave/gramps-web-mcp",
+      "heat_score": 27.4,
+      "metadata_quality_score": 70,
+      "stars": 24
+    },
+    {
+      "repository": "akzar1el/mcp-geo",
+      "heat_score": 27.3,
+      "metadata_quality_score": 83,
+      "stars": 40
+    },
+    {
+      "repository": "falkordb/falkordb-mcpserver",
+      "heat_score": 27.1,
+      "metadata_quality_score": 83,
+      "stars": 42
+    },
+    {
+      "repository": "zilliztech/zilliz-mcp-server",
+      "heat_score": 26.5,
+      "metadata_quality_score": 75,
+      "stars": 35
+    },
+    {
+      "repository": "sktime/sktime-mcp",
+      "heat_score": 26.3,
+      "metadata_quality_score": 83,
+      "stars": 31
+    },
+    {
+      "repository": "aiven-open/mcp-aiven",
+      "heat_score": 25.9,
+      "metadata_quality_score": 70,
+      "stars": 28
+    },
+    {
+      "repository": "iseenope/bilibili-mcp-server",
+      "heat_score": 25.9,
+      "metadata_quality_score": 78,
       "stars": 11
     },
     {
-      "repository": "derfsss/mcp-amigaos4",
-      "heat_score": 23.2,
+      "repository": "kavrynt/kavrynt",
+      "heat_score": 24.8,
       "metadata_quality_score": 83,
+      "stars": 5
+    },
+    {
+      "repository": "exasol/mcp-server",
+      "heat_score": 24.7,
+      "metadata_quality_score": 83,
+      "stars": 18
+    },
+    {
+      "repository": "hvkshetry/office-365-mcp-server",
+      "heat_score": 24.5,
+      "metadata_quality_score": 70,
+      "stars": 17
+    },
+    {
+      "repository": "wpmcp/wordpress-mcp",
+      "heat_score": 24.4,
+      "metadata_quality_score": 83,
+      "stars": 6
+    },
+    {
+      "repository": "mhasaan/webotmcp",
+      "heat_score": 24.3,
+      "metadata_quality_score": 70,
+      "stars": 7
+    },
+    {
+      "repository": "mindstone/mcp-servers",
+      "heat_score": 24.2,
+      "metadata_quality_score": 67,
+      "stars": 14
+    },
+    {
+      "repository": "molanojustin/smithsonian-mcp",
+      "heat_score": 23,
+      "metadata_quality_score": 70,
       "stars": 10
     },
     {
-      "repository": "harehare/mq-mcp",
-      "heat_score": 22.9,
+      "repository": "emailens/mcp",
+      "heat_score": 22.7,
       "metadata_quality_score": 83,
-      "stars": 9
-    },
-    {
-      "repository": "sv-tools/scrypted-mcp-plugin",
-      "heat_score": 22.5,
-      "metadata_quality_score": 78,
       "stars": 8
     },
     {
-      "repository": "fade/dsmr-mcp",
-      "heat_score": 21.9,
-      "metadata_quality_score": 70,
-      "stars": 6
+      "repository": "scavio-ai/scavio-mcp",
+      "heat_score": 22.7,
+      "metadata_quality_score": 83,
+      "stars": 8
     },
     {
-      "repository": "sjkim1127/eon",
-      "heat_score": 21.9,
-      "metadata_quality_score": 70,
-      "stars": 6
+      "repository": "ivanostanin/lucius-mcp",
+      "heat_score": 22.4,
+      "metadata_quality_score": 83,
+      "stars": 8
     },
     {
-      "repository": "anselmoo/mcp-ai-agent-guidelines",
-      "heat_score": 21.8,
+      "repository": "ruashots/agentic-toolbox-mcp",
+      "heat_score": 22,
+      "metadata_quality_score": 78,
+      "stars": 5
+    },
+    {
+      "repository": "egarcia74/warp-sql-server-mcp",
+      "heat_score": 21.6,
       "metadata_quality_score": 83,
       "stars": 6
     },
     {
-      "repository": "exotel/exotelmcp",
-      "heat_score": 21.4,
+      "repository": "jeremie-lesage/zimbra-mcp",
+      "heat_score": 21.6,
       "metadata_quality_score": 70,
-      "stars": 5
-    },
-    {
-      "repository": "nerpatech/trac-mcp-server",
-      "heat_score": 21.4,
-      "metadata_quality_score": 78,
-      "stars": 5
-    },
-    {
-      "repository": "talonicdev/talonic-mcp",
-      "heat_score": 21.3,
-      "metadata_quality_score": 78,
-      "stars": 5
-    },
-    {
-      "repository": "xorwell/jama-cli",
-      "heat_score": 21.3,
-      "metadata_quality_score": 70,
-      "stars": 5
-    },
-    {
-      "repository": "scrapeless-ai/scrapeless-mcp-server",
-      "heat_score": 20.9,
-      "metadata_quality_score": 55,
-      "stars": 170
-    },
-    {
-      "repository": "ericzakariasson/pg-mcp-server",
-      "heat_score": 18.2,
-      "metadata_quality_score": 55,
-      "stars": 178
-    },
-    {
-      "repository": "githejie/mcp-server-calculator",
-      "heat_score": 16.3,
-      "metadata_quality_score": 70,
-      "stars": 161
-    },
-    {
-      "repository": "jackkuo666/sci-hub-mcp-server",
-      "heat_score": 16,
-      "metadata_quality_score": 62,
-      "stars": 193
-    },
-    {
-      "repository": "huccihuang/bilibili-mcp-server",
-      "heat_score": 16,
-      "metadata_quality_score": 70,
-      "stars": 192
-    },
-    {
-      "repository": "kapeli/dash-mcp-server",
-      "heat_score": 16,
-      "metadata_quality_score": 70,
-      "stars": 190
-    },
-    {
-      "repository": "scorzeth/anki-mcp-server",
-      "heat_score": 15.9,
-      "metadata_quality_score": 55,
-      "stars": 185
-    },
-    {
-      "repository": "cexll/codex-mcp-server",
-      "heat_score": 15.7,
-      "metadata_quality_score": 55,
-      "stars": 176
-    },
-    {
-      "repository": "f4ww4z/mcp-mysql-server",
-      "heat_score": 15.6,
-      "metadata_quality_score": 70,
-      "stars": 171
-    },
-    {
-      "repository": "marcopesani/mcp-server-serper",
-      "heat_score": 15.6,
-      "metadata_quality_score": 70,
-      "stars": 171
-    },
-    {
-      "repository": "ali-kamali/axon.mcp.server",
-      "heat_score": 15.6,
-      "metadata_quality_score": 75,
-      "stars": 166
-    },
-    {
-      "repository": "gleanwork/remote-mcp-server",
-      "heat_score": 15.6,
-      "metadata_quality_score": 71,
-      "stars": 166
-    },
-    {
-      "repository": "zongmin-yu/semantic-scholar-fastmcp-mcp-server",
-      "heat_score": 15.6,
-      "metadata_quality_score": 78,
-      "stars": 166
-    },
-    {
-      "repository": "alejandro-ao/mcp-server-example",
-      "heat_score": 15.5,
-      "metadata_quality_score": 70,
-      "stars": 162
-    },
-    {
-      "repository": "delano/postman-mcp-server",
-      "heat_score": 15.4,
-      "metadata_quality_score": 83,
-      "stars": 157
-    },
-    {
-      "repository": "pipecat-ai/pipecat-mcp-server",
-      "heat_score": 15.4,
-      "metadata_quality_score": 70,
-      "stars": 156
+      "stars": 6
     }
   ],
   "removed": [],
-  "warnings": []
+  "warnings": [
+    "fetch failed",
+    "身份校正：zapier/zapier-mcp 已改名为 zapier/mcp，GitHub 仓库 ID 相同；保留原页面，新增数由 29 更正为 28。"
+  ]
 }

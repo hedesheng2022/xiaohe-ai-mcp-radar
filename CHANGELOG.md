@@ -2,6 +2,17 @@
 
 <!-- xiaohe-radar-changelog -->
 
+<!-- run:2026-11-22T19:30:06.139Z -->
+## 2026-11-22T19:30:06.139Z
+
+- 目录总数：1812
+- 本次新增：28
+- 本次移除：0
+- GitHub 候选：1694
+- Official Registry 候选：0
+- 采集警告：fetch failed；身份校正：zapier/zapier-mcp 已改名为 zapier/mcp，GitHub 仓库 ID 相同；保留原页面，新增数由 29 更正为 28。
+
+
 <!-- run:2026-11-22T03:33:10.702Z -->
 ## 2026-11-22T03:33:10.702Z
 
