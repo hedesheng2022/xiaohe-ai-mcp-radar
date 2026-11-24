@@ -1,103 +1,109 @@
 {
-  "captured_at": "2026-11-23T19:30:06.173Z",
+  "captured_at": "2026-11-24T15:30:43.192Z",
   "catalog": {
-    "previous": 1882,
-    "current": 1893,
+    "previous": 1914,
+    "current": 1926,
     "target": 3000,
     "maximum": 6000
   },
   "admission": {
-    "admittedThisRun": 11,
-    "admittedEarlierToday": 77,
+    "admittedThisRun": 12,
+    "admittedEarlierToday": 21,
     "dailyAdmissionLimit": 450,
     "removedThisRun": 0,
-    "eligibleCandidates": 11,
+    "eligibleCandidates": 12,
     "mode": "initial-ramp"
   },
   "collection": {
     "githubRequests": 18,
     "githubAuthenticated": true,
-    "githubPageStart": 10,
-    "githubNextPage": 3,
+    "githubPageStart": 6,
+    "githubNextPage": 9,
     "githubPagesPerRun": 3,
-    "githubCandidates": 1588,
+    "githubCandidates": 1669,
     "registryRequests": 12,
-    "registryCandidates": 331,
-    "mergedCandidates": 1916
+    "registryCandidates": 328,
+    "mergedCandidates": 1996
   },
   "trend_counts": {
     "surging": 22,
-    "rising": 119,
-    "active": 542,
-    "stable": 1165,
-    "popular": 42
+    "rising": 127,
+    "stable": 1167,
+    "active": 566,
+    "popular": 41
   },
   "admitted": [
     {
-      "repository": "galon-ai/galon-mcp",
-      "heat_score": 30,
-      "metadata_quality_score": 75,
-      "stars": 0
+      "repository": "poptin-ltd/poptin-mcp",
+      "heat_score": 34.5,
+      "metadata_quality_score": 76,
+      "stars": 36
     },
     {
-      "repository": "la-viral-studio/flashloop-mcp-server",
-      "heat_score": 30,
-      "metadata_quality_score": 75,
-      "stars": 0
+      "repository": "npgamedev/godot-mcp-toolkit",
+      "heat_score": 31,
+      "metadata_quality_score": 62,
+      "stars": 148
     },
     {
-      "repository": "weather-mcp/weather-mcp",
-      "heat_score": 28.4,
+      "repository": "buidangminh23/codex-mcp-bridge",
+      "heat_score": 30.7,
       "metadata_quality_score": 83,
-      "stars": 58
+      "stars": 34
     },
     {
-      "repository": "usestring/string-ai-mcp",
-      "heat_score": 25.8,
+      "repository": "malloythedev/aseprite-mcp",
+      "heat_score": 28.4,
       "metadata_quality_score": 78,
-      "stars": 10
+      "stars": 43
     },
     {
-      "repository": "ni-c/freshrss-mcp",
-      "heat_score": 25.3,
+      "repository": "happy-technologies-llc/happy-platform-mcp",
+      "heat_score": 28.3,
+      "metadata_quality_score": 75,
+      "stars": 56
+    },
+    {
+      "repository": "fragrans-maotou/zentao-mcp",
+      "heat_score": 27.9,
+      "metadata_quality_score": 70,
+      "stars": 6
+    },
+    {
+      "repository": "bug-ops/mcp-execution",
+      "heat_score": 27.8,
+      "metadata_quality_score": 70,
+      "stars": 48
+    },
+    {
+      "repository": "naptila/recaf-mcp",
+      "heat_score": 27.4,
+      "metadata_quality_score": 70,
+      "stars": 15
+    },
+    {
+      "repository": "furox-art/scientific-toolkit",
+      "heat_score": 27.3,
       "metadata_quality_score": 83,
       "stars": 5
     },
     {
-      "repository": "gowthaman90/mcp-bastion",
-      "heat_score": 24.5,
+      "repository": "the-openroad-project/openroad-mcp",
+      "heat_score": 27,
+      "metadata_quality_score": 78,
+      "stars": 38
+    },
+    {
+      "repository": "tavric-labs/mcp-runtime",
+      "heat_score": 23.3,
+      "metadata_quality_score": 83,
+      "stars": 10
+    },
+    {
+      "repository": "j2h4u/mcp-telegram",
+      "heat_score": 22.9,
       "metadata_quality_score": 78,
       "stars": 7
-    },
-    {
-      "repository": "halfaipg/domain-finder-mcp",
-      "heat_score": 24,
-      "metadata_quality_score": 70,
-      "stars": 13
-    },
-    {
-      "repository": "hellothisisflo/omnifocus-operator",
-      "heat_score": 23.5,
-      "metadata_quality_score": 70,
-      "stars": 11
-    },
-    {
-      "repository": "areso/safe-ssh-mcp",
-      "heat_score": 22.7,
-      "metadata_quality_score": 78,
-      "stars": 8
-    },
-    {
-      "repository": "geiserx/spinnaker-mcp",
-      "heat_score": 21.9,
-      "metadata_quality_score": 83,
-      "stars": 6
-    },
-    {
-      "repository": "augmented-nature/alphafold-mcp-server",
-      "heat_score": 11.1,
-      "metadata_quality_score": 70,
-      "stars": 38
     }
   ],
   "removed": [],
