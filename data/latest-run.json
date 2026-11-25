@@ -1,145 +1,157 @@
 {
-  "captured_at": "2026-11-24T19:30:44.188Z",
+  "captured_at": "2026-11-25T19:31:11.405Z",
   "catalog": {
-    "previous": 1926,
-    "current": 1944,
+    "previous": 1944,
+    "current": 1964,
     "target": 3000,
     "maximum": 6000
   },
   "admission": {
-    "admittedThisRun": 18,
-    "admittedEarlierToday": 33,
+    "admittedThisRun": 20,
+    "admittedEarlierToday": 0,
     "dailyAdmissionLimit": 450,
     "removedThisRun": 0,
-    "eligibleCandidates": 18,
+    "eligibleCandidates": 20,
     "mode": "initial-ramp"
   },
   "collection": {
     "githubRequests": 18,
     "githubAuthenticated": true,
-    "githubPageStart": 9,
-    "githubNextPage": 2,
+    "githubPageStart": 2,
+    "githubNextPage": 5,
     "githubPagesPerRun": 3,
-    "githubCandidates": 1617,
+    "githubCandidates": 1599,
     "registryRequests": 12,
-    "registryCandidates": 327,
-    "mergedCandidates": 1942
+    "registryCandidates": 329,
+    "mergedCandidates": 1923
   },
   "trend_counts": {
-    "surging": 24,
-    "rising": 129,
-    "stable": 1164,
-    "active": 585,
+    "surging": 25,
+    "rising": 135,
+    "stable": 1182,
+    "active": 580,
     "popular": 39
   },
   "admitted": [
     {
-      "repository": "w1ccc/sap-data-mcp",
-      "heat_score": 38.1,
-      "metadata_quality_score": 78,
-      "stars": 109
-    },
-    {
-      "repository": "anandapurva55/multi-cloud-mcp-server",
-      "heat_score": 35.3,
-      "metadata_quality_score": 78,
-      "stars": 45
-    },
-    {
-      "repository": "nguyenquocdat06-ai/kaggle-shell-mcp",
-      "heat_score": 34.3,
-      "metadata_quality_score": 78,
-      "stars": 29
-    },
-    {
-      "repository": "zgraham1981/mcp-server-lighter",
-      "heat_score": 34.2,
-      "metadata_quality_score": 78,
-      "stars": 30
-    },
-    {
-      "repository": "chattee-ai/plugins",
-      "heat_score": 33.3,
-      "metadata_quality_score": 83,
-      "stars": 2
-    },
-    {
-      "repository": "cocoanetics/swiftmcp",
-      "heat_score": 31.6,
+      "repository": "szamosimate/tapir-archicad-mcp",
+      "heat_score": 31.1,
       "metadata_quality_score": 70,
-      "stars": 167
+      "stars": 143
     },
     {
-      "repository": "enthouan/komodo-mcp",
+      "repository": "truenas/truenas-mcp",
+      "heat_score": 30.9,
+      "metadata_quality_score": 83,
+      "stars": 133
+    },
+    {
+      "repository": "kallehiitola/celgrid-mcp",
       "heat_score": 30,
       "metadata_quality_score": 75,
-      "stars": 8
+      "stars": 0
     },
     {
-      "repository": "oborseth/porkbun-mcp",
-      "heat_score": 27.1,
-      "metadata_quality_score": 83,
-      "stars": 37
-    },
-    {
-      "repository": "joshuaramirez/roslynmcpserver",
-      "heat_score": 27,
-      "metadata_quality_score": 78,
-      "stars": 36
-    },
-    {
-      "repository": "pete-builds/mcp-unifi",
-      "heat_score": 26.6,
-      "metadata_quality_score": 83,
-      "stars": 32
-    },
-    {
-      "repository": "professioneit/lsp-mcp-server",
-      "heat_score": 25.7,
-      "metadata_quality_score": 83,
-      "stars": 23
-    },
-    {
-      "repository": "enthouan/simplelogin-mcp",
-      "heat_score": 25.6,
-      "metadata_quality_score": 83,
-      "stars": 18
-    },
-    {
-      "repository": "xbp-europe/sagemath-mcp",
-      "heat_score": 25.5,
-      "metadata_quality_score": 83,
-      "stars": 22
-    },
-    {
-      "repository": "micronaut-projects/micronaut-mcp",
-      "heat_score": 25.1,
+      "repository": "mahdin75/geoserver-mcp",
+      "heat_score": 29.9,
       "metadata_quality_score": 70,
-      "stars": 19
+      "stars": 96
     },
     {
-      "repository": "rfingadam/mcp-ltspice-qucs",
-      "heat_score": 24.7,
-      "metadata_quality_score": 78,
-      "stars": 5
+      "repository": "bootpay/bootpay-mcp",
+      "heat_score": 29.9,
+      "metadata_quality_score": 75,
+      "stars": 0
     },
     {
-      "repository": "enthouan/trello-mcp",
-      "heat_score": 23.9,
-      "metadata_quality_score": 83,
-      "stars": 10
+      "repository": "shipmate-agency/shipready-mcp",
+      "heat_score": 29.9,
+      "metadata_quality_score": 70,
+      "stars": 0
     },
     {
-      "repository": "lcapossio/fpgazeromcp",
-      "heat_score": 22.7,
+      "repository": "wilsonbright/clema-mcp",
+      "heat_score": 29.9,
+      "metadata_quality_score": 75,
+      "stars": 0
+    },
+    {
+      "repository": "trade-it-inc/trade-it-mcp",
+      "heat_score": 28.6,
+      "metadata_quality_score": 76,
+      "stars": 62
+    },
+    {
+      "repository": "abidoo22/pixelorama-mcp",
+      "heat_score": 27.9,
+      "metadata_quality_score": 70,
+      "stars": 50
+    },
+    {
+      "repository": "mattt/aseprite-mcp",
+      "heat_score": 26.7,
       "metadata_quality_score": 78,
       "stars": 9
     },
     {
-      "repository": "orygnscode/opa-mcp-server",
-      "heat_score": 22.7,
+      "repository": "marimerllc/adjutant",
+      "heat_score": 26.2,
+      "metadata_quality_score": 78,
+      "stars": 28
+    },
+    {
+      "repository": "launchdarkly/mcp-server",
+      "heat_score": 26,
+      "metadata_quality_score": 78,
+      "stars": 27
+    },
+    {
+      "repository": "check-technologies/mcp-server-check",
+      "heat_score": 24.9,
+      "metadata_quality_score": 70,
+      "stars": 18
+    },
+    {
+      "repository": "agentfront/mcp-from-openapi",
+      "heat_score": 23.8,
       "metadata_quality_score": 83,
-      "stars": 8
+      "stars": 12
+    },
+    {
+      "repository": "virtualflybrain/vfb3-mcp",
+      "heat_score": 23,
+      "metadata_quality_score": 83,
+      "stars": 9
+    },
+    {
+      "repository": "varshithreddy2006/aria",
+      "heat_score": 23,
+      "metadata_quality_score": 83,
+      "stars": 6
+    },
+    {
+      "repository": "julien38300/topsolid-automation-mcp",
+      "heat_score": 22.9,
+      "metadata_quality_score": 83,
+      "stars": 9
+    },
+    {
+      "repository": "sergiudanstan/openscad-mcp",
+      "heat_score": 22.3,
+      "metadata_quality_score": 78,
+      "stars": 7
+    },
+    {
+      "repository": "digitaliko/superfaktura-mcp",
+      "heat_score": 21.4,
+      "metadata_quality_score": 83,
+      "stars": 5
+    },
+    {
+      "repository": "ibm/mdm-mcp-server",
+      "heat_score": 21.4,
+      "metadata_quality_score": 70,
+      "stars": 5
     }
   ],
   "removed": [],
